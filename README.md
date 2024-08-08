@@ -1,2 +1,2 @@
 # linear-regression-in-Scala
-In  this Assignment we will multiply the matrix with its inverse
+We will find inverse of the matrix and will multiply with other matrix
